@@ -1,4 +1,6 @@
 import time
-time.sleep(1)
+
+# This is an example python script to test merge conflicts
+time.sleep(3)
 print(f"Hello World!, the time is {time.time()}")
-time.sleep(1)
+time.sleep(3)   
