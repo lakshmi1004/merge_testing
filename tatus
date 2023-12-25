@@ -1,0 +1,24 @@
+[33mcommit 7f0b2a58c17cca1bf4d9b38a2b715fd278cc5638[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 0281352 937ef91
+Author: lakshmi1004 <raji10.uk@gmail.com>
+Date:   Mon Dec 25 22:03:15 2023 +0000
+
+    Merge branch 'my_new_branch'
+
+[33mcommit 0281352a69edefecfc250607e49843d84a8b6f90[m
+Author: lakshmi1004 <raji10.uk@gmail.com>
+Date:   Mon Dec 25 21:58:15 2023 +0000
+
+    hi file added to main branch
+
+[33mcommit 937ef919356071d23b2ab756e6d1806447e9f4a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m
+Author: lakshmi1004 <raji10.uk@gmail.com>
+Date:   Mon Dec 25 21:55:01 2023 +0000
+
+    Added neew file to branch
+
+[33mcommit da2011eb1dae4e9ae6e13764a55043f86fd3d0e6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rajalakshmi <98414230+lakshmi1004@users.noreply.github.com>
+Date:   Mon Dec 25 21:19:21 2023 +0000
+
+    Initial commit
